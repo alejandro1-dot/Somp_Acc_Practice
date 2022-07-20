@@ -2,7 +2,7 @@
 
 int main() 
 {
-	std::cout<<"Hello World!";
+	std::cout<<"Compilor still wont work";
 	
 	return 0;
 }
